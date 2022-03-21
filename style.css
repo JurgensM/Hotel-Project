@@ -1,0 +1,47 @@
+body {
+    box-sizing: border-box;
+    width: 100%;
+    padding-left: 90px;
+    padding-right: 90px;
+}
+.top-header {
+    background-color: #F5F5F5;
+    position: relative;
+    bottom: 15px;
+}
+.content-top-left {
+    position: relative;
+    
+    top: 22px;
+    font-size: 14px;
+   
+}
+
+#gift-header{
+    position: relative;
+    left: 1000px;
+    bottom: 13px;
+    font-size: 22px;
+}
+
+.BTP {
+    position: relative;
+    left: 1020px;
+    bottom: 14px;
+    font-size: 13px;
+
+}
+
+#star-header{
+    position: relative;
+    left: 1200px;
+    bottom: 13px;
+    font-size: 22px;
+}
+
+.Loyalty {
+    position: relative;
+    left: 1220px;
+    bottom: 14px;
+    font-size: 13px;
+}

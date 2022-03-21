@@ -1,9 +1,4 @@
-body {
-    box-sizing: border-box;
-    width: 100%;
-    padding-left: 90px;
-    padding-right: 90px;
-}
+/*start of top header adjustments */
 .top-header {
     background-color: #F5F5F5;
     position: relative;
@@ -11,7 +6,7 @@ body {
 }
 .content-top-left {
     position: relative;
-    
+    left: 90px;
     top: 22px;
     font-size: 14px;
    
@@ -43,5 +38,71 @@ body {
     position: relative;
     left: 1220px;
     bottom: 14px;
+    right: 90px;
     font-size: 13px;
+    
 }
+/*end of top header adjustments */
+
+/*start of header adjustments*/
+#logo {
+    width: 150px;
+    position: relative;
+    left: 90px;
+}
+
+.txt {
+    background-color: #F8F8F8;
+    position: relative;
+    bottom: 90px;
+    left: 500px;
+    width: 280px;
+    height: 40px;
+
+    border-radius: 20px;
+    
+
+}
+
+.button-lens{
+    position: relative;
+    left: 470px;
+    bottom: 90px;
+    height: 46px;
+    width: 70px;
+    border-top-right-radius: 20px;
+    border-bottom-right-radius: 20px;
+    background-color: red;
+
+}
+
+#shopping-cart {
+    
+    position: relative;
+    left: 1100px;
+    bottom: 125px;
+    font-size: 25px;
+}
+
+#profile {
+    position: relative;
+    left: 1200px;
+    bottom: 165px;
+    width: 35px;
+}
+
+figcaption {
+    position: relative;
+    left: 1215px;
+    bottom: 180px;
+    display: inline-block;
+    vertical-align: middle;
+}
+
+#down-angle {
+    position: relative;
+    left: 1355px;
+    bottom:220px;
+    font-size: 33px;
+}
+

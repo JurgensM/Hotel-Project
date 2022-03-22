@@ -198,4 +198,133 @@ a:hover {
     bottom: 60px;
 }
 
+.rating {
+    position: relative;
+    right: 90px;
+    bottom: 160px;
+    width: 60px;
+    height: 60px;
+    background-color: red;
+    color: white;
+    text-align: center;
+    float: right;
+    font-size: 13px;
+    border-radius: 10px;
+}
+.rating-2 {
+    position: relative;
+    right: 30px;
+    bottom: 130px;
+    width: 60px;
+    height: 60px;
+    float: right;
+    text-align: center;
+    color: white;
+}
 
+.image-hotel {
+    position: relative;
+    left: 90px;
+    bottom: 80px;
+    height: 400px;
+    border-radius: 10px;
+    width: 800px;
+}
+
+.pricing {
+    position: relative;
+    right: -30px;
+    bottom: 80px;
+    float: right;
+    width: 500px;
+    height: 200px;
+    background-color: #0A223D;
+    color: white;
+    border-radius: 10px;
+    font-family: 'Mulish';
+
+}
+
+.price-start{
+    position: relative;
+    left: 20px;
+    top: 30px;
+    font-size: 13px;
+}
+
+.price{
+    position: relative;
+    left:20px;
+    top: 13px;
+    font-size: 20px;
+}
+
+.per-night{
+    position: relative;
+    left: 20px;
+    bottom: 10px;
+}
+
+
+.quick{
+    position: relative;
+    color: white;
+    font-size: 20px;
+    top: 30px;
+    right: 50px;
+}
+
+#user {
+    position: relative;
+    right: 30px;
+    bottom: 50px;
+    float: right;
+    font-size: 13px;
+}
+
+#home{
+    position: relative;
+    right: -33px;
+    bottom: 30px;
+    float: right;
+    font-size: 13px;
+
+}
+#phone {
+    position: relative;
+    right: -100px;
+    bottom: -35px;
+    float: right;
+    font-size: 19px;
+}
+
+
+
+
+.button-options {
+    position: relative;
+    background-color: #EC1F46; 
+    border: none;
+    color: white;
+    padding: 13px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    border-radius: 10px;
+    top: 35px;
+    left: 150px;
+    height: 40px;
+    font-family: 'Mulish';
+    
+  }
+
+  #map {
+    position: relative;
+    right: 90px;
+    bottom: 275px;
+    width: 500px;
+    height: 190px;
+    float: right;
+    border-radius: 10px;
+  }

@@ -8,6 +8,7 @@
     <link rel="stylesheet" href="style.css">
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
     
+    <script src="https://maps.googleapis.com/maps/api/js"></script>
 </head>
 <body>
     <!-- contact form top start -->
@@ -47,8 +48,10 @@
         <a href="#about">ABOUT</a>
     </nav>
     <!--end of navbar-->
-
+    
+    
     <main>
+        <!--Start of hotel description-->
         <span class="first-txt">Home/Flash/Grand Hilton Hotel</span>
         <i class="fa fa-star" id="yellow-star"></i>
         <i class="fa fa-star" id="yellow-star"></i>
@@ -60,8 +63,29 @@
         <div class="flash-offer">
             <span class="offer-flash">Flash Offer</span>
         </div>
-    </main>
+        <div class="user-ratings">
+            <span class="rating">User Ratings</span>
+            <span class="rating-2">4.5/5</span>
+        </div>
+        <!--end of hotel description-->
         
+
+        <section>
+            <img class="image-hotel" src="images/110.jpg" alt="hotel">
+            <div class="pricing">
+                <span class="price-start">price starts as</span>
+                <p class="price"><strong>$ 8,500</strong></p>
+                <span class="per-night">per night</span>
+                <span class="quick">Quick Booking</span>
+                <i class="fa fa-user" id="user">2 x Guests</i>
+                <i class="fa fa-home" id="home">1 x Room</i>
+                <i class="fa fa-phone" id="phone">12100</i>
+                <button class="button-options">View Other Options</button>
+            </div>
+            <div id="map"></div>
+        </section>
+    </main>
+    <script type="text/javascript" src="index.js"></script>
     </body>
     
 </body>

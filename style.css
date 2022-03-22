@@ -1,5 +1,11 @@
 
 @import url('https://fonts.googleapis.com/css2?family=Mulish:wght@300&display=swap');
+
+body {
+    padding: 0;
+    margin: 0;
+}
+
 /*start of top header adjustments */
 .top-header {
     background-color: #F5F5F5;
@@ -120,6 +126,7 @@ figcaption {
     float: left;
 	margin: auto;
     
+
     
     
     
@@ -143,3 +150,52 @@ a:hover {
     animation-direction: left;
     
 }
+
+.first-txt{
+    position: relative;
+    left: 90px;
+    bottom: 130px;
+    color: grey;
+}
+
+#yellow-star {
+    position: relative;
+    left: -120px;
+    bottom: 50px;
+    color: #F2994A;
+}
+
+.title {
+    position: relative;
+    left: 90px;
+    bottom: 45px;
+    font-family: 'Mulish', italic;
+    font-size: 40px;
+}
+
+.flash-offer {
+    position: relative;
+    left: 530px;
+    bottom: 127px;
+    background-color: red;
+    color: white;
+    width: 60px;
+    height: 30px;
+    text-align: center;
+    vertical-align: middle;
+    border-radius: 10px;
+    font-size: 10px;
+}
+
+.offer-flash {
+    position:relative;
+    top: 10px;
+}
+
+.all-inclusive {
+    position: relative;
+    left: 90px;
+    bottom: 60px;
+}
+
+

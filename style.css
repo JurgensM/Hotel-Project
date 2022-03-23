@@ -373,16 +373,16 @@ a:hover {
       font-family: 'Mulish';
   }
   
-  table {
-      font-family: 'Mulish';
-      
-  }
-  .caption{
+   .caption{
       background-color: rgba(10, 34, 61, 1);
       color: white;
       border-radius: 5px;
       height: 35px;
-      text-align: left;
+       text-align: left; 
+      font-family: 'Mulish';
+      padding-left: 15px;
+      padding-top: 7px;
+      
   }
   
 
@@ -391,7 +391,7 @@ a:hover {
     left: 90px;
     bottom: 120px;
     width: 650px;
-    font-family: 'Mulish';
+  
     
     
     
@@ -399,12 +399,18 @@ a:hover {
   .table-2{
       position: relative;
       left: 800px;
-      bottom: 228px;
+      bottom: 282px;
       width: 650px;
-      font-family: 'Mulish';
+      
     
 
   }
-  td{
-      font-family: "Mulish";
-  }
+  td {
+    font-family: 'Mulish';
+    font-size: 16px;
+    
+}
+
+td, i {
+    margin: 10px;
+}

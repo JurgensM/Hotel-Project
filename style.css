@@ -4,6 +4,7 @@
 body {
     padding: 0;
     margin: 0;
+    font-family: 'Mulish';
 }
 
 /*start of top header adjustments */
@@ -341,6 +342,7 @@ a:hover {
     bottom: 210px;
     width: 100%;
     overflow: hidden;
+    font-family: 'Mulish';
    
   }
   
@@ -359,4 +361,50 @@ a:hover {
   
     
   }
+
+  li a:hover {
+      color: red
+  }
+
+  .package-summery {
+      position: relative;
+      left: 90px;
+      bottom: 160px;
+      font-family: 'Mulish';
+  }
   
+  table {
+      font-family: 'Mulish';
+      
+  }
+  .caption{
+      background-color: rgba(10, 34, 61, 1);
+      color: white;
+      border-radius: 5px;
+      height: 35px;
+      text-align: left;
+  }
+  
+
+  .table-1{
+    position: relative;
+    left: 90px;
+    bottom: 120px;
+    width: 650px;
+    font-family: 'Mulish';
+    
+    
+    
+  }
+  .table-2{
+      position: relative;
+      left: 800px;
+      bottom: 228px;
+      width: 650px;
+      font-family: 'Mulish';
+    
+
+  }
+  td{
+      font-family: "Mulish";
+  }

@@ -350,10 +350,11 @@ a:hover {
   }
   
   li a {
-    position: relative;
+      position: relative;
+    display: block;
     color: rgba(51, 51, 51, 1);
-     text-align: center;
-    padding: 35px;
+   text-align: center;
+    padding: 40px;
     text-decoration: none;
   
     

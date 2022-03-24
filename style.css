@@ -5,6 +5,7 @@ body {
     padding: 0;
     margin: 0;
     font-family: 'Mulish';
+    background-color: #F5FAFE;
 }
 
 /*start of top header adjustments */
@@ -391,7 +392,8 @@ a:hover {
     left: 90px;
     bottom: 120px;
     width: 650px;
-  
+    border-radius: 10px;
+    background-color: white;
     
     
     
@@ -401,7 +403,8 @@ a:hover {
       left: 800px;
       bottom: 282px;
       width: 650px;
-      
+      border-radius: 10px;
+      background-color: white;
     
 
   }
@@ -420,8 +423,8 @@ td, i {
     position: relative;
     left: 90px;
     bottom: 170px;
-    
-    
+    border-radius: 10px;
+    background-color: white;
 }
 
 .caption-2 {
@@ -435,9 +438,131 @@ td, i {
     padding-top: 7px;
     width: 1350px;
 }
-.table-4 {
-    position: relative;
-    left: 90px;
-    bottom: 110px;
-}
 
+
+.blank-row{
+    height: 40px;
+    background-color: white;
+}
+ .titles {
+     color: red;
+ }
+
+ .packages {
+     position: relative;
+     bottom: 80px;
+     text-align: center;
+ }
+
+ .blue-haven {
+     position: relative;
+     left: 90px;
+     bottom: 90px;
+     width: 700px;
+     height: 498px;
+     background-color: #0A223D;
+     border-radius: 8px;
+ }
+ 
+ .pesci {
+     width: 50%;
+     border-top-left-radius: 8px;
+     border-bottom-left-radius: 8px;
+ }
+
+ #star{
+    position: relative;
+    left: 30px;
+    bottom: 425px;
+    font-size: 10px;
+    margin: 1px;
+    color: gold;
+ }
+
+.hotel-blue-h {
+     position: relative;
+     left: 385px;
+     bottom: 435px;
+     color: white;
+ }
+
+.p-haven {
+     position: relative;
+     left: 385px;
+     bottom: 430px;
+     color: white;
+     font-size: 11px;
+     height: 20px;
+     width: 300px;
+ }
+
+#location-dot {
+    position:relative;
+    left: 375px;
+    bottom: 365px;
+    color: white;
+    font-size: 13px;
+ }
+
+ #user-package {
+    position: relative;
+    left: 183px;
+    bottom: 340px;
+    color: white;
+    font-size: 13px;
+ }
+
+ #home-package {
+     position: relative;
+     left: 95px;
+     bottom: 315px;
+     color: white;
+     font-size: 13px;
+ }
+
+ .strike {
+     position: relative;
+     left: 390px;
+     bottom: 240px;
+     color: white;
+     font-size: 14px;
+ }
+
+ .new-price {
+     position: relative;
+     left: 390px;
+     bottom: 250px;
+     font-size: 20px;
+     color: white;
+ }
+
+
+
+ 
+ .btn-book{
+    position: relative;
+    left: 590px;
+    bottom: 310px;
+    width: 90px;
+    height: 40px;
+    background-color: #EC1F46;
+    color: white;
+    border-radius: 3px;
+    border-style: hidden;
+ }
+
+ .first-package-offer {
+    position: relative;
+    bottom: 745px;
+    width: 85px;
+    height: 25px;
+    background-color: #EC1F46;
+    color: white;
+    text-align: center;
+    font-size: 13px;
+ }
+
+.first-flash {
+    margin-bottom: 5px;
+    
+}

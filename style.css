@@ -563,6 +563,6 @@ td, i {
  }
 
 .first-flash {
-    margin-bottom: 5px;
-    
+    position: relative;
+    top: 5px;
 }

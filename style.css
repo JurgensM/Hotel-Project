@@ -458,7 +458,7 @@ td, i {
      position: relative;
      left: 90px;
      bottom: 90px;
-     width: 700px;
+     width: 900px;
      height: 498px;
      background-color: #0A223D;
      border-radius: 8px;
@@ -466,11 +466,12 @@ td, i {
  
  .pesci {
      width: 50%;
+     height: 100%;
      border-top-left-radius: 8px;
      border-bottom-left-radius: 8px;
  }
 
- #star{
+ #star-2{
     position: relative;
     left: 30px;
     bottom: 425px;
@@ -481,14 +482,14 @@ td, i {
 
 .hotel-blue-h {
      position: relative;
-     left: 385px;
+     left: 483px;
      bottom: 435px;
      color: white;
  }
 
 .p-haven {
      position: relative;
-     left: 385px;
+     left:485px;
      bottom: 430px;
      color: white;
      font-size: 11px;
@@ -498,7 +499,7 @@ td, i {
 
 #location-dot {
     position:relative;
-    left: 375px;
+    left: 475px;
     bottom: 365px;
     color: white;
     font-size: 13px;
@@ -506,7 +507,7 @@ td, i {
 
  #user-package {
     position: relative;
-    left: 183px;
+    left: 283px;
     bottom: 340px;
     color: white;
     font-size: 13px;
@@ -514,7 +515,7 @@ td, i {
 
  #home-package {
      position: relative;
-     left: 95px;
+     left: 195px;
      bottom: 315px;
      color: white;
      font-size: 13px;
@@ -522,7 +523,7 @@ td, i {
 
  .strike {
      position: relative;
-     left: 390px;
+     left: 490px;
      bottom: 240px;
      color: white;
      font-size: 14px;
@@ -530,7 +531,7 @@ td, i {
 
  .new-price {
      position: relative;
-     left: 390px;
+     left: 490px;
      bottom: 250px;
      font-size: 20px;
      color: white;
@@ -541,7 +542,7 @@ td, i {
  
  .btn-book{
     position: relative;
-    left: 590px;
+    left: 780px;
     bottom: 310px;
     width: 90px;
     height: 40px;
@@ -566,3 +567,187 @@ td, i {
     position: relative;
     top: 5px;
 }
+
+.second-packages {
+    position: relative;
+    right: 80px;
+    bottom: 587px;
+    background-color: #0A223D;
+    width: 400px;
+    height: 498px;
+    float: right;
+    border-radius: 15px;
+}
+
+.resort-2{
+    width: 100%;
+    border-top-left-radius: 8px;
+    border-top-right-radius: 8px;
+}
+
+.strike-2{
+    position: relative;
+    left: 35px;
+    color: white;
+    top: 45px;
+    z-index: 1;
+    font-size: 14px;
+}
+
+.new-price-2{
+    position: relative;
+    left: 35px;
+    top: 33px;
+    color: white;
+    font-size: 20px;
+}
+
+.lux {
+    position: relative;
+    left: 30px;
+    color: white;
+}
+
+.btn-book-2{
+    position: relative;
+    left: 280px;
+    bottom: 20px;
+    width: 90px;
+    height: 40px;
+    background-color: #EC1F46;
+    color: white;
+    border-radius: 3px;
+    border-style: hidden;
+ }
+
+ #location-dot-2 {
+    position: relative;
+    left: 23px;
+    color: white;
+ }
+ #user-package-2 {
+    position: relative;
+    right: 209px;
+    top: 30px;
+    color: white;
+ }
+
+#home-package-2 {
+    position: relative;
+    left: 23px;
+    top: 20px;
+    color: white;
+}
+
+.second-flash {
+    position: relative;
+    top: 5px;
+}
+
+.second-package-offer {
+    position: relative;
+    bottom: 457px;
+    width: 85px;
+    height: 25px;
+    background-color: #EC1F46;
+    color: white;
+    text-align: center;
+    font-size: 13px;
+ }
+
+.third-packages {
+    position: relative;
+    left: 90px;
+    background-color: #0A223D;
+    width: 400px;
+    height: 498px;
+    border-radius: 15px;
+
+
+}
+
+.resort-3 {
+    width: 100%;
+    border-top-left-radius: 8px;
+    border-top-right-radius: 8px;
+}
+
+.fourth-packages {
+    position: relative;
+    left: 480px;
+    bottom: 500px;
+    height: 498px;
+    background-color: #0A223D;
+    border-radius: 15px;;
+}
+
+.fifth-packages {
+    position: relative;
+    left: 480px;
+    bottom: 500px;
+    background-color: #0A223D;
+    border-radius: 15px;;
+}
+
+.abt-us {
+    text-align: center;
+}
+
+.about-us {
+    position:relative;
+    top: 30px;
+    left: 400px;
+    text-align: center;
+    border-radius: 15px;
+    background-color: white;
+    width: 50%;
+
+
+}
+
+.smile-man{
+    position: relative;
+    top: -40px;
+    border-radius: 50%;
+    width: 100px;
+}
+
+.name {
+    position: relative;
+    top: -50px;
+    color: red;
+}
+
+#yellow {
+    position: relative;
+    top: -80px;
+    color: gold;
+    margin: 3px;
+    font-size: 10px;
+}
+
+.stay {
+    position: relative;
+    top: -65px;
+    font-size: 13px;
+}
+
+#left{
+    position: relative;
+    right: 500px;   
+    bottom: 170px;
+    
+}
+
+#right{
+    position: relative;
+    left: 500px;
+    bottom: 170px;
+}
+
+.desc {
+    position: relative;
+    top: -80px;
+    font-size: 13px;
+}
+

@@ -819,8 +819,206 @@ td, i {
     
 }
 
+.activities {
+    position: relative;
+    left: 90px;
+    bottom: 500px;
+}
 
-
+.chamarel{
+    position: relative;
+    left: 90px;
+    bottom: 460px;
+    width: 250px;
+    height: 250px;
+    border-radius: 10px;
+    
+    background: linear-gradient(0deg, blue, green 0%, );
+    
+}
+.img-bg {
+    background-image: 
+    linear-gradient(to top, rgba(10, 34, 61, 0.73), rgba(255,255,255, 0.1)),
+    url(images/cameriere\ \(2\).jpg);
+    border-radius: 10px;
+    width: 100%;
+    height: 100%;
+    background-size: cover;
+    color: white;
+    padding: 20px;
+}
    
+.curious{
+    position: relative;
+    left: 25px;
+    bottom: 200px;
+    color: white;
+    font-size: 20px;
+    
+}
+
+.btn-book-3{
+    position: relative;
+    left: 25px;
+    bottom: 210px;
+    width: 90px;
+    height: 40px;
+    background-color: #EC1F46;
+    color: white;
+    border-radius: 3px;
+    border-style: hidden;
+ }
+
+ .chamarel-2 {
+    position: relative;
+    left: 430px;
+    bottom: 710px;;
+    width: 250px;
+    height: 250px;
+    border-radius: 10px;
+    
+    
+ }
+.chamarel-3 {
+ position: relative;
+    left: 760px;
+    bottom: 960px;;
+    width: 250px;
+    height: 250px;
+    border-radius: 10px;
+}
+
+.chamarel-4 {
+    position: relative;
+    left: 1100px;
+    bottom: 1208px;;
+    width: 250px;
+    height: 250px;
+    border-radius: 10px;
+}
+
+footer {
+    position: relative;
+    bottom: 1100px;
+    background-color: #0A223D;
+    color: white;
+    height: 1300px;
+    font-family: 'Mulish';
+}
+
+.logo-2 {
+    position: relative;
+    top: 80px;
+    left: 90px;
+    width: 300px;
+    height: 300px;
+
+}
+
+.footer-table {
+    position: relative;
+    left: 600px;
+    bottom: 200px;
+   
+    
+}
+
+.td-3{
+    padding-right: 80px;
+    color: gray;
+}
+
+.td-title{
+    padding-bottom: 30px;
+    color: white;
+    padding-right: 80px;
+
+}
+
+.social {
+    position: relative;
+    left: 830px;
+    bottom: 245px
+}
+
+#fb {
+    position: relative;
+    left: 1030px;
+    bottom: 293px;
+}
+
+#yt {
+    position: relative;
+    left: 1040px;
+    bottom: 293px;
+}
+
+#ig {
+    position: relative;
+    left: 1050px;
+    bottom: 293px;
+}
+
+.h-contact{
+    position: relative;
+    left: 90px;
+    bottom: 150px;
+}
+.h-send{
+    position: relative;
+    left: 1000px;
+    bottom: 205px;
+}
+
+.feel-free {
+    position: relative;
+    left: 90px;
+    bottom: 150px;
+    font-size: 14px;
+}
 
 
+.p-tel{
+    position: relative;
+    left: 20px;
+    font-size: 15px;
+    /* padding-left: 4px; */
+}
+
+#footer-location {
+    position: relative;
+    left: 94px;
+    bottom: 200px;
+    font-size: 20px;
+    
+}
+
+.blossom {
+    font-size: 15px;
+    padding: 4px;
+}
+
+#phone-footer {
+    position: relative;
+    left: -374px;
+    bottom: 120px;
+    font-size: 20px;
+}
+
+#message-footer{
+    position: relative;
+    right: 818px;
+    font-size: 20;
+    bottom: 80px;
+
+    
+}
+
+.span-footer {
+    position: relative;
+    left: -20px;
+}
+
+.cherly {
+    padding-left: 4px;
+}

@@ -966,7 +966,7 @@ footer {
 }
 .h-send{
     position: relative;
-    left: 1000px;
+    left: 840px;
     bottom: 205px;
 }
 
@@ -975,6 +975,7 @@ footer {
     left: 90px;
     bottom: 150px;
     font-size: 14px;
+    color: gray;
 }
 
 
@@ -990,12 +991,14 @@ footer {
     left: 94px;
     bottom: 200px;
     font-size: 20px;
+    color: gray;
     
 }
 
 .blossom {
     font-size: 15px;
     padding: 4px;
+    color: gray;
 }
 
 #phone-footer {
@@ -1003,6 +1006,7 @@ footer {
     left: -374px;
     bottom: 120px;
     font-size: 20px;
+    color: gray;
 }
 
 #message-footer{
@@ -1010,7 +1014,8 @@ footer {
     right: 818px;
     font-size: 20;
     bottom: 80px;
-
+    color: gray;
+    
     
 }
 
@@ -1022,3 +1027,67 @@ footer {
 .cherly {
     padding-left: 4px;
 }
+
+#fname {
+    position: relative;
+    left: 840px;
+    bottom: 300px;
+    width: 250px;
+    height: 50px;
+    border-radius: 10px;
+}
+
+#number {
+    position: relative;
+    left: 1120px;
+    bottom: 430px;
+    width: 250px;
+    height: 50px;
+    border-radius: 10px;
+    
+}
+
+#message {
+    position: relative;
+    left: 580px;
+    bottom: 265px;
+    width: 530px;
+    height: 200px;
+    border-radius: 10px;
+}
+
+.send-btn{
+    position: relative;
+    left: 38px;
+    bottom: 100px;
+    width: 150px;
+    height: 60px;
+    background-color: #EC1F46;
+    color: white;
+    border-radius: 4px;
+    border-style: hidden;
+ }
+
+ .required {
+     position: relative;
+     right: 140px;
+     bottom: 200px;
+     float: right;
+ }
+
+ .payment {
+     position: relative;
+     right: 20px;
+     float: right;
+     width: 130px;
+ }
+
+
+
+ #center {
+     position: relative;
+     left: 470px;
+     
+     padding: 30px;
+    
+ }

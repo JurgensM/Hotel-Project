@@ -11,23 +11,44 @@ body {
 .pre-header {
     background-color: rgba(245, 250, 254, 0.1);
     display: flex;
+    height: 100px;
+    width: 100%;
     justify-content: baseline;
-    font-size: 10px;
-    height: 60px;
-    
+    font-size: 11px;
+    flex-direction: row;
+    justify-content: space-between;
 }
-
 .questions {
-    padding-top: 0.9%; 
+    margin-top: 1%;
     padding-left: 11.5%;
 }
 
 .btp {
-    padding-top: 24px;
-    padding-right: 265px; 
+    margin-top: 1%;
+    padding-left: 20%;
+
 }
 
-.loyalty{
-    padding-top: 13.6px;
-    padding-left: 533px;
+.btp-2 {
+    margin-top: 1vh;
+    margin-left: 14vh;
 }
+
+.btp-3 {
+    
+}
+
+.loyalty {
+    margin-top: 1%;
+    margin-right: 10%;
+    
+}
+
+.loyalty-2 {
+    margin-top: 1vh;
+    margin-left: 3vh;
+}
+
+
+    
+

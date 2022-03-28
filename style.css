@@ -5,26 +5,30 @@ body {
     margin: 0;
     padding: 0;
     font-family: 'Mulish', sans-serif;
+    width: 1440px;
+    height: 5370px;
 }
 
 .pre-header {
     background-color: rgba(245, 250, 254, 0.1);
     display: flex;
     justify-content: baseline;
-    font-size: 11px;
+    font-size: 10px;
+    height: 60px;
+    
 }
 
 .questions {
-    padding-top: 13.5px;
-    padding-left: 177.9px;
+    padding-top: 24px;
+    padding-left: 165px;
 }
 
 .btp {
-    padding-top: 13.5px;
-    padding-right: 177.9px; 
+    padding-top: 24px;
+    padding-right: 265px; 
 }
 
 .loyalty{
-    padding-top: 12.9px;
-    padding-left: 577.9px;
+    padding-top: 13.6px;
+    padding-left: 533px;
 }

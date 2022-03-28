@@ -1,7 +1,7 @@
 
 body {
     background-image: url(images/preview.jpg);
-    background-size: contain;
+    background-size: cover;
     margin: 0;
     padding: 0;
     font-family: 'Mulish', sans-serif;
